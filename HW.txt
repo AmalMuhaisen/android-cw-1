@@ -1,0 +1,14 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        int A = 20;
+        int B = 25;
+        int Z = A*B;
+        System.out.println(Z);
+        int S = A+B;
+        System.out.println(S);
+        boolean R = B>A;
+        System.out.println(R);
+        String N =" امل";
+        String M = " محيسن ";
+        System.out.println(N+M);
